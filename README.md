@@ -1,6 +1,8 @@
-<a text-align="center" href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+Adrian+Tang." width="5000" alt="Typing SVG"/>
-</a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi,+I'm+Adrian+Tang." alt="Typing SVG"/>
+  </a>
+</div>
 
 <div>
   <strong>About Me:</strong><br>
@@ -9,56 +11,20 @@
   📫 Reach me at <a href="mailto:adrian.s.tang@gmail.com">adrian.s.tang@gmail.com</a><br>
   😄 Find me on <a href="https://www.linkedin.com/in/adrian-s-tang/">LinkedIn</a><br><br>
 
-<strong>📊 My GitHub Stats:</strong><br><br>
+  <strong>📊 My GitHub Stats:</strong><br>
+</div>
+
 <p align="center">
-  <!-- Stars -->
-  <a href="https://github.com/tan-ad?tab=stars">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=tan-ad
-           &show_icons=true
-           &theme=radical
-           &hide_border=true
-           &hide=issues,prs,contribs,commits,followers
-           &hide_rank=true" 
-      style="margin: 0 10px;" 
-      alt="GitHub Stars" 
-    />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tan-ad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Adrian's GitHub stats" />
   </a>
-
-  <!-- Total Commits -->
-  <a href="https://github.com/tan-ad">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=tan-ad
-           &include_all_commits=true
-           &show_icons=true
-           &theme=radical
-           &hide_border=true
-           &hide=stars,issues,prs,contribs,followers
-           &hide_rank=true" 
-      style="margin: 0 10px;" 
-      alt="Total Commits" 
-    />
-  </a>
-
-  <!-- Followers -->
-  <a href="https://github.com/tan-ad?tab=followers">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=tan-ad
-           &show_icons=true
-           &theme=radical
-           &hide_border=true
-           &hide=stars,issues,prs,contribs,commits
-           &hide_rank=true" 
-      style="margin: 0 10px;" 
-      alt="GitHub Followers" 
-    />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tan-ad&layout=compact&theme=radical&hide_border=true" alt="Adrian's top languages" />
   </a>
 </p>
 
-
-
-
-  <h3 align="left">Languages &amp; Tools</h3>
+<div>
+  <h3 align="left">Languages & Tools</h3>
   <p align="left">
     <strong>Languages:</strong><br>
     <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/></a>
@@ -71,7 +37,7 @@
     <a href="https://www.r-project.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="30" height="30"/></a>
   </p>
   <p align="left">
-    <strong>Frameworks &amp; Libraries:</strong><br>
+    <strong>Frameworks & Libraries:</strong><br>
     <a href="https://pytorch.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="30" height="30"/></a>
     <a href="https://www.djangoproject.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="30" height="30"/></a>
     <a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/></a>
@@ -81,7 +47,7 @@
     <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="30" height="30"/></a>
   </p>
   <p align="left">
-    <strong>Tools &amp; Platforms:</strong><br>
+    <strong>Tools & Platforms:</strong><br>
     <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>
     <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/></a>
     <a href="https://www.mongodb.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/></a>
@@ -90,10 +56,10 @@
     <a href="https://jupyter.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="30" height="30"/></a>
   </p>
   <p align="left">
-    <strong>DevOps &amp; Infrastructure:</strong><br>
+    <strong>DevOps & Infrastructure:</strong><br>
     <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/></a>
     <a href="https://www.terraform.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="30" height="30"/></a>
-    <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="30" height="30"/></a>
+    <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30"/></a>
     <a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="30" height="30"/></a>
     <a href="https://kubernetes.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="30" height="30"/></a>
     <a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="30" height="30"/></a>
