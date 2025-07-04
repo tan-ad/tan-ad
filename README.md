@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi,+I'm+Adrian+Tang." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3d75c4&width=435&lines=Hi,+I'm+Adrian+Tang." alt="Typing SVG"/>
   </a>
 </div>
 
@@ -8,20 +8,42 @@
   <strong>About Me:</strong><br>
   💻 I’m currently a Software Engineering student studying at the University of Waterloo<br>
   📈 I like building from scratch, quickly. I enjoy studying math and playing badminton.<br>
-  📫 Reach me at <a href="mailto:adrian.s.tang@gmail.com">adrian.s.tang@gmail.com</a><br>
+  📫 Reach me at adrian.s.tang[at]gmail.com</a><br>
   😄 Find me on <a href="https://www.linkedin.com/in/adrian-s-tang/">LinkedIn</a><br><br>
-
-  <strong>📊 My GitHub Stats:</strong><br>
 </div>
 
+<!-- stars and commmits with rank
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tan-ad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Adrian's GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tan-ad&layout=compact&theme=radical&hide_border=true" alt="Adrian's top languages" />
-  </a>
+  <img 
+    width="420"
+    src="https://github-readme-stats.vercel.app/api?username=tan-ad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide=prs,issues,contribs,followers,rank" 
+    alt="Adrian's GitHub Stats" 
+  />
 </p>
+-->
+<!-- stats without rank
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=tan-ad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" 
+    alt="Adrian's GitHub stats" 
+  />
+</p>
+-->
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=tan-ad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide=prs,issues,contribs,followers&hide_rank=true" 
+    alt="GitHub Stats" 
+  />
+</p>
+<!-- streak
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tan-ad&theme=radical&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+</p>
+-->
 
 <div>
   <h3 align="left">Languages & Tools</h3>
