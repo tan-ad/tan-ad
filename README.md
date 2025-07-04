@@ -9,18 +9,54 @@
   📫 Reach me at <a href="mailto:adrian.s.tang@gmail.com">adrian.s.tang@gmail.com</a><br>
   😄 Find me on <a href="https://www.linkedin.com/in/adrian-s-tang/">LinkedIn</a><br><br>
 
-  <strong>📊 GitHub Stats:</strong><br>
-  <p align="left">
-    <a href="https://github.com/tan-ad">
-      <img src="https://img.shields.io/github/stars/tan-ad?label=Stars&style=flat-square" alt="Stars"/>
-    </a>
-    <a href="https://github.com/tan-ad?tab=repositories">
-      <img src="https://img.shields.io/github/repos/tan-ad?label=Repositories&style=flat-square" alt="Repositories"/>
-    </a>
-    <a href="https://github.com/tan-ad?tab=followers">
-      <img src="https://img.shields.io/github/followers/tan-ad?label=Followers&style=flat-square" alt="Followers"/>
-    </a>
-  </p><br>
+<strong>📊 My GitHub Stats:</strong><br><br>
+<p align="center">
+  <!-- Stars -->
+  <a href="https://github.com/tan-ad?tab=stars">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=tan-ad
+           &show_icons=true
+           &theme=radical
+           &hide_border=true
+           &hide=issues,prs,contribs,commits,followers
+           &hide_rank=true" 
+      style="margin: 0 10px;" 
+      alt="GitHub Stars" 
+    />
+  </a>
+
+  <!-- Total Commits -->
+  <a href="https://github.com/tan-ad">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=tan-ad
+           &include_all_commits=true
+           &show_icons=true
+           &theme=radical
+           &hide_border=true
+           &hide=stars,issues,prs,contribs,followers
+           &hide_rank=true" 
+      style="margin: 0 10px;" 
+      alt="Total Commits" 
+    />
+  </a>
+
+  <!-- Followers -->
+  <a href="https://github.com/tan-ad?tab=followers">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=tan-ad
+           &show_icons=true
+           &theme=radical
+           &hide_border=true
+           &hide=stars,issues,prs,contribs,commits
+           &hide_rank=true" 
+      style="margin: 0 10px;" 
+      alt="GitHub Followers" 
+    />
+  </a>
+</p>
+
+
+
 
   <h3 align="left">Languages &amp; Tools</h3>
   <p align="left">
@@ -52,7 +88,6 @@
     <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/></a>
     <a href="https://code.visualstudio.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="30"/></a>
     <a href="https://jupyter.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="30" height="30"/></a>
-    <span>Excel</span>, <span>LLMs (ChatGPT)</span>
   </p>
   <p align="left">
     <strong>DevOps &amp; Infrastructure:</strong><br>
