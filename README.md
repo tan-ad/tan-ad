@@ -7,7 +7,7 @@
 <div>
   <strong>About Me:</strong><br>
   💻 I’m currently a Software Engineering student studying at the University of Waterloo<br>
-  📈 I like building from scratch, quickly. I enjoy studying math and playing badminton.<br>
+  📈 I like building from scratch. I'm interested in applied AI, OS, and computer networks, but don't mind doing the boring work. I enjoy playing badminton and used to sail competitively!<br>
   📫 Reach me at adrian.s.tang[at]gmail.com</a><br>
   😄 Find me on <a href="https://www.linkedin.com/in/adrian-s-tang/">LinkedIn</a><br><br>
 </div>
@@ -30,12 +30,12 @@
 </p>
 -->
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=tan-ad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide=prs,issues,contribs,followers&hide_rank=true" 
     alt="GitHub Stats" 
   />
-</p>
+</p> -->
 <!-- streak
 <p align="center">
   <img 
