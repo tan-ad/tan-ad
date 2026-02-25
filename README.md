@@ -7,7 +7,8 @@
 <div>
   <strong>About Me:</strong><br>
   💻 I’m currently a Software Engineering student studying at the University of Waterloo<br>
-  📈 I like building from scratch. I'm interested in applied AI, OS, and computer networks, but don't mind doing the boring work. I enjoy playing badminton and used to sail competitively!<br>
+  📈 I like building from scratch. I'm interested in applied AI, OS, and computer networks, but don't mind doing the boring work. <br>
+  🏸 I enjoy playing badminton and used to sail competitively!<br>
   📫 Reach me at adrian.s.tang[at]gmail.com</a><br>
   😄 Find me on <a href="https://www.linkedin.com/in/adrian-s-tang/">LinkedIn</a><br><br>
 </div>
