@@ -45,7 +45,7 @@
 </p>
 -->
 
-<div>
+<!-- <div>
   <h3 align="left">Languages & Tools</h3>
   <p align="left">
     <strong>Languages:</strong><br>
@@ -87,4 +87,4 @@
     <a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="30" height="30"/></a>
     <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="30" height="30"/></a>
   </p>
-</div>
+</div> -->
